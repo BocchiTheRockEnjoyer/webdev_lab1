@@ -1,3 +1,3 @@
 # webdev_lab1
-First lab
-Github is confusinggg
+<br>First ever lab<br/>
+<br>Github is confusinggg but incredibly fun<br/>
